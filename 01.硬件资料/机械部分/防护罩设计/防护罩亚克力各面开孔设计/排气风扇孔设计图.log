@@ -1,0 +1,52 @@
+﻿
+Unigraphics NX V12.0 / 2D Exchange
+
+Reading part: E:\OneDrive - The love of god\01代码学习\日常项目\魔组云雕刻项目\新版（0.1）\加工文件\01.prt
+
+
+Writing part: C:\Users\4\AppData\Local\Temp\4155CDB3Cbz3v.prt
+
+Elapsed time   :    0 minutes,  1 seconds
+Actual CPU Time:    0 minutes,  1 seconds
+
+INFO-
+INFO-		Unigraphics Version NX V12.0 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODWG Translator .....
+INFO-
+INFO-		Start of Translation: Wed Nov 25 10:41:21 2020
+INFO-
+STATUS-		Converting C:\Users\4\AppData\Local\Temp\4155CDB3Cbz3v.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\4\AppData\Local\Temp\4155CDB3Cbz3v.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	4
+SUMMARY-	Point ....................................:	6
+SUMMARY-	Conic ....................................:	5
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	15
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: G:\排气风扇孔设计图.dwg
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Point ....................................:	6
+SUMMARY-	Line .....................................:	4
+SUMMARY-	Ellipse ..................................:	5
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	21
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Wed Nov 25 10:41:22 2020
+INFO-		Translation CPU time: 0 m, 1 sINFO-

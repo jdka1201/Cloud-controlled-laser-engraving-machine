@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/goods">
+        <file>素材/goods/01.jpg</file>
+        <file>素材/goods/02.jpg</file>
+        <file>素材/goods/03.jpg</file>
+        <file>素材/goods/04.jpg</file>
+        <file>素材/images/1.jpg</file>
+        <file>素材/images/8773fe789e2dd53ca2ab06b157e4c97_看图王.jpg</file>
+        <file>素材/images/1_看图王.jpg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>素材/images/10.png</file>
+        <file>素材/images/cnknmnclcv.png</file>
+        <file>素材/images/d45e38f037b2ca798a5b424ae788995.jpg</file>
+        <file>素材/images/ChMlWV66CkGICKUAACq9WVkm8sAAAPC5AK-9YcAKr1x024.jpg</file>
+        <file>素材/images/02.png</file>
+        <file>素材/images/25.png</file>
+        <file>素材/images/118.png</file>
+        <file>素材/images/timg.jpg</file>
+        <file>素材/images/下载.png</file>
+    </qresource>
+</RCC>
